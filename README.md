@@ -1,12 +1,18 @@
-# Front End | Academia Geek
-## Reto: Página Tributo | Free Code Camp | Retos Semana 1
-### Formador : John Florez | @JohnFlorez25 
-### [Repositorio] 
-> #### [WebPage] https://academia-geek.github.io/aprendices-geek-entrenamiento-hildebrandosv/Modulo-3/Tarea-04/ecommerce/
-___
-### --> ENUNCIADO: 
+# Front End 7 | Academia Geek
+## Reto: Página Tributo | Retos Semana 1 | 20 dec 2021 | Timelines
 
-## --> PANTALLAS DE EVIDENCIA: 
+> ## Formador : John Florez | @JohnFlorez25
+> ## [WebPage] 
+#### [Repositorio] 
+___
+### --> ENUNCIADO:
+#### * Taller de GIT según el siguiente enlace:
+> [Link_Ejercicio] https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+#### * Desarrollo de la página "Responsive Web Design | Responsive Web Design Projects"
+> Build a Tribute Page.
+
+## --> PANTALLAS DE EVIDENCIA:
+
 ### - Código fuente:
 
 ### - Resultado:
