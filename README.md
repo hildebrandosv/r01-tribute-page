@@ -3,7 +3,7 @@
 
 > ## Formador : John Florez | @JohnFlorez25
 > ## [WebPage] 
-#### [Repositorio] 
+#### [Repositorio] https://github.com/hildebrandosv/r01-tribute-page
 ___
 ### --> ENUNCIADO:
 #### * Taller de GIT según el siguiente enlace:
