@@ -2,7 +2,7 @@
 ## Reto: Página Tributo | Retos Semana 1 | 20 dec 2021 | Timelines
 
 > ## Formador : John Florez | @JohnFlorez25
-> ## [WebPage] 
+> ## [WebPage] https://hildebrandosv.github.io/r01-tribute-page/
 #### [Repositorio] https://github.com/hildebrandosv/r01-tribute-page
 ___
 ### --> ENUNCIADO:
