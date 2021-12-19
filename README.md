@@ -21,8 +21,10 @@ ___
 ## --> PANTALLAS DE EVIDENCIA:
 
 ### - Código fuente:
+![image](https://user-images.githubusercontent.com/73366557/146688222-f0601449-30a0-4a85-a2f7-e6d0a43c5f82.png)
 
 ### - Resultado:
+![image](https://user-images.githubusercontent.com/73366557/146688191-100be23c-6b85-4c90-a2cf-34975482e0ba.png)
 
 ___
 ### Hildebrando Sierra V.
