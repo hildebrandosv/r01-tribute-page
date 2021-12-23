@@ -17,3 +17,24 @@
    padding: 0;
    border: none;
 }
+body{
+   /* font-family: 'Coustard', serif;
+   background-image: url(../images/planets_iau_big.jpg);
+   background-size: cover;
+   background-repeat: no-repeat; */
+}
+#idMain-titles {
+background-color: var(--colorMainTitle);
+}
+#img-caption {
+   width: 75%;
+}
+.clCaption {
+   font-size: 0.80em;
+}
+#idCite-txt {
+   font-size: 0.70em !important;
+}
+.clFontTitles1 {
+   /* font-family: 'Press Start 2P', cursive; */
+}
