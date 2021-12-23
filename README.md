@@ -21,11 +21,11 @@ ___
 ## --> PANTALLAS DE EVIDENCIA:
 
 ### - Envío/Entrega:
-En Academia Geek - Front End 7:
++ En Academia Geek - Front End 7:
 ![image](https://user-images.githubusercontent.com/73366557/147287704-daa1afe7-7a89-42a2-ae07-94c888c2f955.png)
-> NOTA: se entregan los retos de la Página de Tributo y del Formulario de Encuesta en el mismo formulari de entrega de Academia Geek.
+   > NOTA: se entregan los retos de la Página de Tributo y del Formulario de Encuesta en el mismo formulari de entrega de Academia Geek.
 
-En freeCodeCamp:
++ En freeCodeCamp:
 ![image](https://user-images.githubusercontent.com/73366557/146688527-03be067d-ba2c-44f2-b63f-68d65949661e.png)
 
 ### - Código fuente:
