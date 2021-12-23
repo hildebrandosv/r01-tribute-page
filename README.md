@@ -20,7 +20,7 @@ ___
 
 ## --> PANTALLAS DE EVIDENCIA:
 
-### - Envío:
+### - Envío/Entrega:
 ![image](https://user-images.githubusercontent.com/73366557/146688527-03be067d-ba2c-44f2-b63f-68d65949661e.png)
 
 ### - Código fuente:
