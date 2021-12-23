@@ -8,9 +8,9 @@ ___
 ### --> ENUNCIADO:
 #### * Taller de GIT según el siguiente enlace:
 > [Link_Ejercicio] https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
-#### * Desarrollo de la página "Responsive Web Design | Responsive Web Design Projects"
+#### * Desarrollo de la página "Responsive Web Design | Responsive Web Design Projects."
 > Build a Tribute Page.
-> #### * Desarrollo de la página "Responsive Web Design | Responsive Web Design Projects"
+> #### * Desarrollo de la página "Responsive Web Design | Responsive Web Design Projects."
 > [Link_Ejemplo] https://codepen.io/freeCodeCamp/full/zNqgVx
 > [Link_Consulta_Info_Page] https://historiaybiografias.com/universo_anos/
 
